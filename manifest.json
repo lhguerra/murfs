@@ -1,0 +1,23 @@
+{
+  "name": "Onde tá a Snurf?",
+  "short_name": "Snurf",
+  "start_url": "/?home=true",
+  "icons": [
+    {
+      "src": "src/assets/icons/pinLogo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "src/assets/icons/pinLogo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "theme_color": "#0E141D",
+  "background_color": "#0E141D",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
