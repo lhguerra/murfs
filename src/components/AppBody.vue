@@ -60,6 +60,7 @@ export default {
     install: async function (event) {
       console.log('👍', 'butInstall-clicked');
       const promptEvent = window.deferredPrompt;
+      console.log('how is the prompt feeling?', promptEvent)
       if (!promptEvent) {
         // The deferred prompt isn't available.
         return;
