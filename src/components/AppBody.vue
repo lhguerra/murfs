@@ -20,6 +20,16 @@
         </li>
       </ul>
 
+      <p>Roteiro</p>
+
+      <ul class="itinerary-list">
+        <li v-for="(place, index) in places" :key="place.name"
+          class="text-left"
+          :class="{
+            visited: index < currentIndex,
+            current: index === currentIndex
+          }">{{ place.name }}</li>
+      </ul>
   </div>
 
 </template>
@@ -32,6 +42,8 @@ import data from '../../data.json'
 export default {
   data () {
     return {
+      places: data.places,
+      currentIndex: data.current,
       current: data.places[data.current]
     }
   }
