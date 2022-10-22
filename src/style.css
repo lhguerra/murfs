@@ -115,6 +115,10 @@ img {
 .m-b-20 { margin-bottom: 20px; }
 .m-b-40 { margin-bottom: 40px; }
 
+/* Width */
+
+.w-100 { width: 100%; box-sizing: border-box }
+
 /* Text */
 
 .text-left {
