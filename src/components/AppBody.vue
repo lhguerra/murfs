@@ -5,11 +5,11 @@
       <h1 class="text-left text-white m-0 m-b-20">
         {{ current.name }}
       </h1>
-      <p>{{ current.address }}</p>
+      <p class="text-left">{{ current.address }}</p>
       <div class="map-block m-b-40">
         <iframe :src="current.mapUrl" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <img src="../assets/img/pinLogo.svg" class="pin">
-        <a href="https://goo.gl/maps/gc2tiL7DSWxRqEf1A" target="_blank" class="d-block button">Abrir mapa</a>
+        <a :href="current.externalMapUrl" target="_blank" class="d-block button">Abrir mapa</a>
       </div>
 
       <p class="text-white m-0">Links úteis do pico</p>
@@ -29,7 +29,11 @@
           :class="{
             visited: index < currentIndex,
             current: index === currentIndex
-          }">{{ place.name }}</li>
+          }">
+            <a :href="current.externalMapUrl" target="_blank">
+              {{ place.name }}
+            </a>
+          </li>
       </ul>
 
       <a v-on:click="install" class="button w-100 m-b-20 button--white">Instalar o app da Snurf</a>
