@@ -5,7 +5,6 @@
       <h1 class="text-left text-white m-0 m-b-20">
         {{ current.name }}
       </h1>
-      <a v-on:click="install">Instalar</a>
       <p>{{ current.address }}</p>
       <div class="map-block m-b-40">
         <iframe :src="current.mapUrl" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -33,7 +32,7 @@
           }">{{ place.name }}</li>
       </ul>
 
-      <a href="https://lula.com.br/" target="_blank" class="button w-100 m-b-40 button--white">Instalar o app da Snurf</a>
+      <a v-on:click="install" class="button w-100 m-b-20 button--white">Instalar o app da Snurf</a>
 
       <a href="https://lula.com.br/" target="_blank" class="button w-100">Não cl1qu3</a>
   </div>
