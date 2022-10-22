@@ -47,7 +47,7 @@
           </li>
       </ul>
 
-      <a v-on:click="install" class="button w-100 m-b-20 button--white">Instalar o app da Snurf</a>
+      <a href="javascript:void(0)" v-on:click="install" class="button w-100 m-b-20 button--white">Instalar o app da Snurf</a>
 
       <a href="https://lula.com.br/" target="_blank" class="button w-100">Não c1iqu3</a>
   </div>
