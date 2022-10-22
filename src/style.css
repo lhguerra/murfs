@@ -102,6 +102,10 @@ img {
 .m-b-20 { margin-bottom: 20px; }
 .m-b-40 { margin-bottom: 40px; }
 
+/* Width */
+
+.w-100 { width: 100%; box-sizing: border-box }
+
 /* Text */
 
 .text-left {
@@ -184,9 +188,9 @@ img {
   position: absolute;
   left: 7px;
   width: 1px;
-  height: 150%;
+  height: 182%;
   background-color: var(--accent-dark);
-  transform: translateY(-80%);
+  transform: translateY(-89%);
 }
 
 .itinerary-list li:before {
