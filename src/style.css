@@ -218,7 +218,10 @@ img {
   color: white;
   z-index: 2;
 }
-.itinerary-list li.current a {
+
+.itinerary-list li.current a,
+.itinerary-list li.current a:hover,
+.itinerary-list li.current a:focus {
   color: white;
 }
 
