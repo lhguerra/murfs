@@ -1,4 +1,5 @@
 {
+  "current": 0,
   "places": [
     {
       "name": "La Cave",
@@ -77,6 +78,5 @@
         }
       ]
     }
-  ],
-  "current": 1
+  ]
 }
