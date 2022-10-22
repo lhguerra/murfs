@@ -26,18 +26,6 @@
       ]
     },
     {
-      "name": "Santo Trago Bar",
-      "address": "Av. Rubens De Arruda Ramos, 2034",
-      "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3536.227421135527!2d-48.554944569955794!3d-27.586478027962542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952738198f17b24d%3A0x5b874b07fb4b8bd1!2sNovotel%20Florianopolis!5e0!3m2!1sen!2sbr!4v1666404989369!5m2!1sen!2sbr",
-      "externalMapUrl": "https://goo.gl/maps/NZLYCAF4xkgpWNnR6",
-      "links": [
-        {
-          "name": "Instagram",
-          "url": "https://www.instagram.com/santotragobar"
-        }
-      ]
-    },
-    {
       "name": "Liquorice Gastro Pub",
       "address": "R. Alves de Brito, 405",
       "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3536.178566739633!2d-48.54758448447204!3d-27.587992982841584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952738163919fc3d%3A0x970bd8af90da7e53!2sLiquorice%20Gastro%20Pub!5e0!3m2!1sen!2sbr!4v1666405073807!5m2!1sen!2sbr",
@@ -46,6 +34,18 @@
         {
           "name": "Instagram",
           "url": "https://www.instagram.com/liquoricegastropub"
+        }
+      ]
+    },
+    {
+      "name": "Santo Trago Bar",
+      "address": "Av. Rubens De Arruda Ramos, 2034",
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3536.227421135527!2d-48.554944569955794!3d-27.586478027962542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952738198f17b24d%3A0x5b874b07fb4b8bd1!2sNovotel%20Florianopolis!5e0!3m2!1sen!2sbr!4v1666404989369!5m2!1sen!2sbr",
+      "externalMapUrl": "https://goo.gl/maps/NZLYCAF4xkgpWNnR6",
+      "links": [
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/santotragobar"
         }
       ]
     },
