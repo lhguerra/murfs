@@ -56,6 +56,16 @@ export default {
       current: data.places[data.current]
     }
   },
+  mounted() {
+    window.addEventListener('load', () => {
+      window.addEventListener('beforeinstallprompt', function(e) {
+        // Prevent Chrome 67 and earlier from automatically showing the prompt
+        e.preventDefault();
+        // Stash the event so it can be triggered later.
+        window.deferredPrompt = e;
+      });
+    })
+  },
   methods: {
     install: async function (event) {
       console.log('👍', 'butInstall-clicked');
@@ -73,8 +83,6 @@ export default {
       // Reset the deferred prompt variable, since
       // prompt() can only be called once.
       window.deferredPrompt = null;
-      // Hide the install button.
-      this.classList.toggle('hidden', true);
     }
   }
 }
