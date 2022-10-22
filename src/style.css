@@ -82,6 +82,7 @@ img {
 }
 
 #app {
+  width: 100%;
   max-width: 600px;
   margin: 0 auto;
   padding: 1.5rem;
@@ -137,6 +138,12 @@ img {
   height: 500px;
   border-radius: 20px;
   filter: invert(90%) hue-rotate(162deg);
+}
+
+@media screen and (max-width: 500px) {
+  .map-block iframe {
+    height: 350px;
+  }
 }
 
 .map-block:before {
