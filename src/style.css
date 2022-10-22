@@ -73,6 +73,10 @@ img {
   background-color: white;
 }
 
+.button--white:hover {
+  color: var(--accent-dark);
+}
+
 .card {
   padding: 2em;
 }
