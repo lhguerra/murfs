@@ -30,7 +30,7 @@
             visited: index < currentIndex,
             current: index === currentIndex
           }">
-            <a :href="current.externalMapUrl" target="_blank">
+            <a :href="place.externalMapUrl" target="_blank">
               {{ place.name }}
             </a>
           </li>
