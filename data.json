@@ -14,18 +14,6 @@
       ]
     },
     {
-      "name": "Santo Trago Bar",
-      "address": "Av. Rubens De Arruda Ramos, 2034",
-      "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3536.227421135527!2d-48.554944569955794!3d-27.586478027962542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952738198f17b24d%3A0x5b874b07fb4b8bd1!2sNovotel%20Florianopolis!5e0!3m2!1sen!2sbr!4v1666404989369!5m2!1sen!2sbr",
-      "externalMapUrl": "https://goo.gl/maps/NZLYCAF4xkgpWNnR6",
-      "links": [
-        {
-          "name": "Instagram",
-          "url": "https://www.instagram.com/santotragobar"
-        }
-      ]
-    },
-    {
       "name": "Delfino 146",
       "address": "R. Luís Delfino, 146",
       "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3536.170085241059!2d-48.548052584472124!3d-27.588255982841343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527381636ec3a33%3A0xcacef029b1d4c69!2sDelfino%20146!5e0!3m2!1sen!2sbr!4v1666404631717!5m2!1sen!2sbr",
@@ -34,6 +22,18 @@
         {
           "name": "Instagram",
           "url": "https://www.instagram.com/delfino146"
+        }
+      ]
+    },
+    {
+      "name": "Santo Trago Bar",
+      "address": "Av. Rubens De Arruda Ramos, 2034",
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3536.227421135527!2d-48.554944569955794!3d-27.586478027962542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952738198f17b24d%3A0x5b874b07fb4b8bd1!2sNovotel%20Florianopolis!5e0!3m2!1sen!2sbr!4v1666404989369!5m2!1sen!2sbr",
+      "externalMapUrl": "https://goo.gl/maps/NZLYCAF4xkgpWNnR6",
+      "links": [
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/santotragobar"
         }
       ]
     },
@@ -65,7 +65,7 @@
       "name": "Franklin Bar",
       "address": "R. Tiradentes, 223",
       "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3535.809807544663!2d-48.55038548447202!3d-27.599425582836698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527390092ba7379%3A0x90da89e4c55e5b7c!2sFranklin%20Bar!5e0!3m2!1sen!2sbr!4v1666406242970!5m2!1sen!2sbr",
-      "externalMapUrl": "https://g.page/franklinbarfloripa?share",
+      "externalMapUrl": "https://goo.gl/maps/MGWqfzWgfQrFB3bc8",
       "links": [
         {
           "name": "Instagram",
