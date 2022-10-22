@@ -207,6 +207,7 @@ img {
   height: 182%;
   background-color: var(--accent-dark);
   transform: translateY(-89%);
+  z-index: -1;
 }
 
 .itinerary-list li:before {
@@ -243,4 +244,10 @@ img {
 
 .itinerary-list li.current:before {
   background-color: greenyellow;
+  animation: iconPulse 1s ease-in-out infinite forwards;
+}
+
+@keyframes iconPulse {
+  0%  { transform: translateY(-50%) scale(1); }
+  50%  { transform: translateY(-50%) scale(1.25); }
 }
