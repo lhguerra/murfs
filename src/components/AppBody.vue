@@ -33,7 +33,9 @@
           }">{{ place.name }}</li>
       </ul>
 
-      <a href="https://lula.com.br/" target="_blank" class="button w-100">Ele sim!</a>
+      <a href="https://lula.com.br/" target="_blank" class="button w-100 m-b-40 button--white">Instalar o app da Snurf</a>
+
+      <a href="https://lula.com.br/" target="_blank" class="button w-100">Não cl1qu3</a>
   </div>
 
 </template>
