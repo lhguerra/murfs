@@ -1,5 +1,5 @@
 {
-  "current": 5,
+  "current": 6,
   "places": [
     {
       "name": "La Cave",
@@ -8,7 +8,7 @@
       "externalMapUrl": "https://goo.gl/maps/58jtYXVDC9w84RHW9",
       "links": [
         {
-          "name": "Instagram",
+          "name": "Instagram we",
           "url": "https://www.instagram.com/lacavegastrobar"
         }
       ]
@@ -73,6 +73,20 @@
         }
       ]
     },
+
+{
+      "name": "Cachorro Quente do Afonso",
+      "address": "Av. Hercílio Luz, 1050",
+      "mapUrl": "https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Cachorro quente do afonso, Florianópolis &amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "externalMapUrl": "https://maps.app.goo.gl/J8jvB8ME2rTh3kkh8?g_st=ic",
+      "links": [
+        {
+          "name": "Instagram",
+          "url": "instagram.com"
+        }
+      ]
+    }
+,
     {
       "name": "Don't Tell Mama",
       "address": "R. Tiradentes, 143",
