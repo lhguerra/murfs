@@ -75,15 +75,12 @@
     },
 
 {
-      "name": "Cachorro Quente do Afonso",
-      "address": "Av. Hercílio Luz, 1050",
+      "name": "Perdemos a Smurf",
+      "address": "Ultima vez vista no Cachorro Quente do Afonso",
       "mapUrl": "https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Cachorro quente do afonso, Florianópolis &amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
-      "externalMapUrl": "https://maps.app.goo.gl/J8jvB8ME2rTh3kkh8?g_st=ic",
+      "externalMapUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUMNWilgoQftupKzvE523NrWT8TQgXlCq_A&usqp=CAU",
       "links": [
-        {
-          "name": "Instagram",
-          "url": "instagram.com"
-        }
+        
       ]
     }
 ,
